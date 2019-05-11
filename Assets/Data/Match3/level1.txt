@@ -1,0 +1,10 @@
+{
+"LevelType": "TargetScore",
+"ScoreStar1": 10000,
+"ScoreStar2": 15000,
+"ScoreStar3": 20000,
+"NumMovements": 7,
+"TargetScore": 13000,
+"xDim": 7,
+"yDim": 7
+}

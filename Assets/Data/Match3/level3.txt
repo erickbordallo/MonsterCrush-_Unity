@@ -1,0 +1,10 @@
+{
+"LevelType": "Timer",
+"ScoreStar1": 10000,
+"ScoreStar2": 15000,
+"ScoreStar3": 20000,
+"TimeInSeconds": 90,
+"TargetScore": 32000,
+"xDim": 9,
+"yDim": 9
+}
